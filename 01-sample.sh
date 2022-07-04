@@ -1,4 +1,3 @@
 #!/bin/bash
 
-ls -l 
-cat /etc/*release
+print("hello world")
